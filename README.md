@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+cu1z;Beginner+Software+Engineer;Frontend Developer;Keep busy&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=600&size=36" />
+</p>
 
 <!--
 **Denrezit/Denrezit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
