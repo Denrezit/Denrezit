@@ -14,7 +14,6 @@
 <ul>
   <li>🔭 I’m currently working with websites</li>
   <li>🌱 I’m currently learning C++, HTML/CSS</li>
-  <li>📫 How to reach me: https://t.me/denrezit or **savitskaya_05@inbox.ru**</li>
 </ul>
 
 <p align="right">
@@ -27,6 +26,10 @@
 ### 🌟: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j1zzu&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="right">
+  <h3 align="right">📫 How to reach me: https://t.me/denrezit or **savitskaya_05@inbox.ru**</h3>
+</p>
 <!--
 
 
