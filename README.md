@@ -8,8 +8,9 @@
 
 ### About Me 🌠
 <p align="right">
-  <img align="right" height="180" width="270" src="https://github.com/Denrezit/Denrezit/blob/main/img/star.gif"> 
+  <img align="right" height="170" width="270" src="https://github.com/Denrezit/Denrezit/blob/main/img/star.gif"> 
 </p>
+
 <ul>
   <li>🔭 I’m currently working with websites</li>
   <li>🌱 I’m currently learning C++, HTML/CSS</li>
