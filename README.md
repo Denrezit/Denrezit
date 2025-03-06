@@ -17,7 +17,7 @@
 </ul>
 
 <p align="right">
-  <img align="right" height="180" width="300" src="https://github.com/Denrezit/Denrezit/blob/main/img/tenor.gif"> 
+  <img align="right" height="170" width="300" src="https://github.com/Denrezit/Denrezit/blob/main/img/tenor.gif"> 
 </p>
 
 <h3 align="left">Languages and Tools 🌙:</h3>
