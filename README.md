@@ -8,8 +8,8 @@
 
 ### About Me 🌠
 
-<p align="left">
-  <img align="left" height="300" width="100" src="https://github.com/Denrezit/Denrezit/blob/main/img/tenor.gif"> 
+<p align="right">
+  <img align="right" height="200" width="300" src="https://github.com/Denrezit/Denrezit/blob/main/img/tenor.gif"> 
 </p>
 <!--
 
