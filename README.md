@@ -28,7 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j1zzu&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="right">
-  <h3 align="right">📫 How to reach me: https://t.me/denrezit or **savitskaya_05@inbox.ru**</h3>
+  <h3 align="right">📫 How to reach me: https://t.me/denrezit</h3>
 </p>
 <!--
 
