@@ -14,7 +14,7 @@
 <ul>
   <li>🔭 I’m currently working with websites</li>
   <li>🌱 I’m currently learning C++, HTML/CSS</li>
-  <li>🧠 I'm have been studing English for a long time</li>
+  <li>🧠 I have been studing English for a long time</li>
 </ul>
 
 <p align="right">
