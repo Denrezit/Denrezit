@@ -26,7 +26,7 @@
 
 ### 🌟: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j1zzu&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denrezit&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="right">
   <h3 align="right">📫 How to reach me: https://t.me/denrezit</h3>
